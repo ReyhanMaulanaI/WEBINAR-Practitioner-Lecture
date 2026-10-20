@@ -1,0 +1,21 @@
+peserta,tugas,berhasil,waktu_detik,catatan
+P01_Budi,T1_Filter_Kecamatan,1,12.5,Cepat menemukan dropdown
+P01_Budi,T2_Identifikasi_Risiko_Tinggi,1,8.2,Langsung melihat KPI dan bar chart
+P01_Budi,T3_Detail_Kelurahan,1,15.1,Melihat tren curah hujan
+P01_Budi,T4_Ekspor_CSV,1,6.4,Mengklik tombol ekspor tanpa hambatan
+P02_Ani,T1_Filter_Kecamatan,1,28.0,Sempat bingung dengan multiselect
+P02_Ani,T2_Identifikasi_Risiko_Tinggi,1,14.3,Terbantu oleh mode teks besar
+P02_Ani,T3_Detail_Kelurahan,1,22.0,Membaca rekomendasi status
+P02_Ani,T4_Ekspor_CSV,0,45.2,Tidak menyadari posisi tombol download
+P03_Cici,T1_Filter_Kecamatan,1,10.0,Lancar
+P03_Cici,T2_Identifikasi_Risiko_Tinggi,1,7.5,Warna chart sangat jelas
+P03_Cici,T3_Detail_Kelurahan,1,12.8,Lancar melihat grafik tren
+P03_Cici,T4_Ekspor_CSV,1,8.1,Berhasil unduh CSV
+P04_Dedi,T1_Filter_Kecamatan,1,14.2,Lancar
+P04_Dedi,T2_Identifikasi_Risiko_Tinggi,1,9.0,Paham indikator KPI
+P04_Dedi,T3_Detail_Kelurahan,1,18.4,Melihat detail kelurahan
+P04_Dedi,T4_Ekspor_CSV,1,11.3,File CSV terunduh sempurna
+P05_Eka,T1_Filter_Kecamatan,1,16.5,Lancar
+P05_Eka,T2_Identifikasi_Risiko_Tinggi,1,11.2,Lancar
+P05_Eka,T3_Detail_Kelurahan,1,19.0,Lancar
+P05_Eka,T4_Ekspor_CSV,1,13.7,Lancar
