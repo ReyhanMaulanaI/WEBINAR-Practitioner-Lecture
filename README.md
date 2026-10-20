@@ -181,7 +181,7 @@ pip install -r requirements.txt
 
 Untuk mengunggah seluruh proyek ini ke repositori GitHub Anda:
 
-1. Buat repositori baru di [GitHub](https://github.com/new) (misalnya diberi nama `webinar-studi-kasus`).
+1. Buat repositori baru di [GitHub](https://github.com/new) (misalnya diberi nama `WEBINAR Practitioner Lecture`).
 2. Jalankan perintah berikut di terminal:
 
 ```bash
@@ -198,7 +198,7 @@ git commit -m "feat: implementasi lengkap 6 sesi webinar studi kasus data dan AI
 git branch -M main
 
 # Hubungkan dengan remote repository GitHub Anda (ganti URL dengan milik Anda)
-git remote add origin https://github.com/<USERNAME-ANDA>/<NAMA-REPO-ANDA>.git
+git remote add origin https://github.com/<ReyhanMaulanaI>/<WEBINAR Practitioner Lecture>.git
 
 # Unggah ke GitHub
 git push -u origin main
